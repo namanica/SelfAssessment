@@ -1,14 +1,22 @@
 ## JavaScript
 
+: 👂 heard - Heard or have some idea
+: 🎓 known - Learned, read, but didn’t use
+: 🖐️ used - Used in work or real project
+: 🙋 explained - Explained to colleagues or can freely explain
+: 📢 talked - Gave a public speech or lecture on a topic
+: 🔬 researched - Deep research, measurements, comparisons, read sources
+: 🚀 constructed - Developed an implementation or equivalent
+
 - Language
-  - `Object`
-  - `Function`
+  - `Object`: 👂 heard
+  - `Function`: 🎓 known
   - `Boolean`
-  - `Number`
+  - `Number`: 🎓 known
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
   - `NaN`
   - `undefined`
   - `null`
@@ -59,9 +67,9 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
   - `for`
   - `for..in`
   - `for..of`
@@ -88,7 +96,7 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return`: 🖐️ used
 - Data structures
   - `Array`
   - `Map`

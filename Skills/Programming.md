@@ -1,15 +1,23 @@
 ## Programming fundamental concepts
 
+: 👂 heard - Heard or have some idea
+: 🎓 known - Learned, read, but didn’t use
+: 🖐️ used - Used in work or real project
+: 🙋 explained - Explained to colleagues or can freely explain
+: 📢 talked - Gave a public speech or lecture on a topic
+: 🔬 researched - Deep research, measurements, comparisons, read sources
+: 🚀 constructed - Developed an implementation or equivalent
+
 - Concepts
-  - Model
+  - Model: 🎓 known
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
   - Programming language
   - Contract
@@ -32,26 +40,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value: 👂 heard
   - Identifier
-  - Variable
+  - Variable: 👂 heard
   - Constant
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function: 👂 heard
   - Procedure
-  - Method
+  - Method: 👂 heard
   - Class
   - Prototype
-  - Event
+  - Event: 👂 heard
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops: 👂 heard
   - Assignment
   - Regular expression
   - Interface
@@ -82,7 +90,7 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
+  - Argument: 👂 heard
   - Parameter
   - Pure function
   - Lambda expression
@@ -105,8 +113,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array: 👂 heard
+  - Structure: 👂 heard
   - Record
   - Enum
   - Instance
@@ -121,7 +129,7 @@
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree: 👂 heard
   - Graph
   - Iterator
   - Mutable state
@@ -165,7 +173,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github: 👂 heard
   - Docker
   - Kubernetes
   - GCC
@@ -218,7 +226,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
