@@ -10,28 +10,28 @@
 
 - Concepts
   - Model: 🎓 known
-  - Modeling
+  - Modeling: 🎓 known
   - Subject domain
-  - Algorithm: 🎓 known
+  - Algorithm: 🖐️ used
   - Syntax: 🎓 known
-  - Semantics
-  - Abstraction
-  - Paradigm
+  - Semantics: 🎓 known
+  - Abstraction: 🎓 known
+  - Paradigm: 🖐️ used
   - Programm: 🎓 known
-  - Programming paradigm
-  - Programming language
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library
+  - Library: 👂 heard
   - Package
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework: 👂 heard
+  - Platform: 🎓 known
+  - Source code: 🎓 known
   - Object code
-  - Machine code
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
@@ -40,42 +40,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value: 👂 heard
-  - Identifier
-  - Variable: 👂 heard
-  - Constant
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
-  - Expression
+  - Expression: 🖐️ used
   - Heap
-  - Function: 👂 heard
+  - Function: 🖐️ used
   - Procedure
-  - Method: 👂 heard
-  - Class
+  - Method: 🎓 known
+  - Class: 🖐️ used
   - Prototype
-  - Event: 👂 heard
-  - Type
-  - Flag
+  - Event: 🖐️ used
+  - Type: 👂 heard
+  - Flag: 🖐️ used
   - Lexical scope
   - Code block
   - Conditions
   - Loops: 👂 heard
-  - Assignment
+  - Assignment: 🖐️ used
   - Regular expression
-  - Interface
+  - Interface: 👂 heard
   - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
+  - Call stack: 👂 heard
+  - Naming conventions: 👂 heard
+  - Coding conventions: 👂 heard
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
-  - Trailing commas
+  - Trailing commas: 🖐️ used
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 👂 heard
+  - Reference types: 👂 heard
   - Type systems
   - Strong typing
   - Weak typing
@@ -89,19 +89,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument: 👂 heard
-  - Parameter
+  - Signature: 👂 heard
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression
+  - Lambda expression: 👂 heard
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 👂 heard
   - Tail call optimisation
-  - Callback
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -118,9 +118,9 @@
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object: 🖐️ used
+  - Collection: 🎓 known
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
@@ -134,9 +134,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization: 👂 heard
   - String parsing
-  - JSON
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -168,40 +168,40 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 👂 heard
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git
-  - Github: 👂 heard
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
-  - Micro-optimization
-  - Nested loops
+  - Micro-optimization: 👂 heard
+  - Nested loops: 👂 heard
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments

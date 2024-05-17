@@ -9,28 +9,28 @@
 : 🚀 constructed - Developed an implementation or equivalent
 
 - Language
-  - `Object`: 👂 heard
-  - `Function`: 🎓 known
-  - `Boolean`
-  - `Number`: 🎓 known
-  - `BigInt`
-  - `String`: 🎓 known
-  - `Symbol`: 🎓 known
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🎓 known
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
   - `Infinity`: 🎓 known
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 🎓 known
   - `instanceof`
-  - `...spread`
-  - `...rest`
+  - `...spread`: 👂 heard
+  - `...rest`: 👂 heard
   - `typeof`
-  - Destructuring
+  - Destructuring: 🎓 known
   - Generators
-  - Iterators
+  - Iterators: 🎓 known
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining: 👂 heard
   - Optional chaining
   - IIFE
   - Async IIFE
@@ -39,21 +39,21 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
+  - `prototype`: 👂 heard
   - Equality operators
-  - Logical operators
+  - Logical operators: 🎓 known
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🎓 known
+  - `void`: 👂 heard
   - `yield`
-  - `await`
+  - `await`: 👂 heard
   - Template literal
-  - Strict mode
+  - Strict mode: 🎓 known
   - Hoisting
-  - `delete`
+  - `delete`: 👂 heard
   - `in`
-  - `super`
+  - `super`: 👂 heard
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -70,27 +70,27 @@
   - `if`: 🖐️ used
   - `while`: 🖐️ used
   - `do..while`: 🖐️ used
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 👂 heard
+  - `export`: 👂 heard
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch`: 👂 heard
+  - `switch`: 👂 heard
+  - `class`: 🖐️ used
+  - `extends`: 👂 heard
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
+  - Arrow function: 🎓 known
+  - Async function: 🎓 known
+  - Function declaration: 🎓 known
+  - Function expression: 🎓 known
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -98,33 +98,33 @@
   - `Function.prototype.apply`
   - `return`: 🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 🖐️ used
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays: 👂 heard
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date`: 🎓 known
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise`: 🎓 known
+  - `console`: 🖐️ used
+  - Timers: 🎓 known
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js: 🎓 known
+  - npm: 👂 heard
+  - prettier: 🎓 known
+  - MDN: 🖐️ used
   - TC39
