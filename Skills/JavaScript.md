@@ -11,110 +11,110 @@
 - Language
   - `Object`: 🖐️ used
   - `Function`: 🖐️ used
-  - `Boolean`: 🎓 known
+  - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
   - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
-  - `Infinity`: 🎓 known
+  - `Infinity`: 🖐️ used
   - `NaN`: 🎓 known
   - `undefined`: 🎓 known
   - `null`: 🎓 known
-  - `this`: 🎓 known
-  - `instanceof`
-  - `...spread`: 👂 heard
-  - `...rest`: 👂 heard
-  - `typeof`
-  - Destructuring: 🎓 known
-  - Generators
+  - `this`: 🖐️ used
+  - `instanceof`: 👂 heard
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
+  - Generators: 👂 heard
   - Iterators: 🎓 known
-  - Async generator
-  - Async iterator
-  - Chaining: 👂 heard
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
+  - Chaining: 🎓 known
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
-  - `globalThis`
+  - `globalThis`: 👂 heard
   - `window`
   - Getters and setters
   - `__proto__`
   - `prototype`: 👂 heard
   - Equality operators
-  - Logical operators: 🎓 known
-  - Logical Assignment
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🎓 known
   - Bitwise operators: 🎓 known
-  - Ternary operator: 🎓 known
-  - `void`: 👂 heard
-  - `yield`
-  - `await`: 👂 heard
+  - Ternary operator: 🖐️ used
+  - `void`: 🙋 explained
+  - `yield`: 👂 heard
+  - `await`: 🖐️ used
   - Template literal
-  - Strict mode: 🎓 known
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete`: 👂 heard
-  - `in`
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`: 👂 heard
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields: 👂 heard
+  - Static class fields: 👂 heard
+  - Private class fields: 👂 heard
+  - Private class methods: 👂 heard
 - Statements
-  - `if`: 🖐️ used
+  - `if`: 🙋 explained
   - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
+  - `do..while`: 🙋 explained
   - `for`: 🖐️ used
-  - `for..in`: 🖐️ used
-  - `for..of`: 🖐️ used
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
   - `for await`: 🎓 known
-  - `throw`: 🎓 known
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
-  - `import`: 👂 heard
-  - `export`: 👂 heard
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch`: 👂 heard
-  - `switch`: 👂 heard
+  - `try..catch`: 🖐️ used
+  - `switch`: 🎓 known
   - `class`: 🖐️ used
-  - `extends`: 👂 heard
-  - `with`
-  - `new`
+  - `extends`: 🖐️ used
+  - `with`: 🎓 known
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function: 🎓 known
-  - Async function: 🎓 known
-  - Function declaration: 🎓 known
+  - Arrow function: 🙋 explained
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
   - Function expression: 🎓 known
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
+  - Default parameters: 🎓 known
+  - Functional object: 👂 heard
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
   - `Function.prototype.apply`
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: 👂 heard
-  - `Set`: 👂 heard
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays: 👂 heard
+  - Typed arrays: 🎓 known
   - Mixins
-  - `Object.assign`
+  - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`: 🎓 known
+  - `RegExp`: 🖐️ used
+  - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`: 👂 heard
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -122,9 +122,9 @@
   - `console`: 🖐️ used
   - Timers: 🎓 known
 - Infrastructure
-  - V8
+  - V8: 🎓 known
   - Node.js: 🎓 known
-  - npm: 👂 heard
-  - prettier: 🎓 known
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN: 🖐️ used
   - TC39
